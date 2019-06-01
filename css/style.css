@@ -1,0 +1,95 @@
+
+.home preaload  computer pace-done{}
+.pace  pace-inactive{}
+.wrap-animation{}
+#wrap{}
+.wrapper-nav{}
+#wrap-animation{
+    
+}
+.wrapper-nav {
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    right: 0px;
+    left: 0px;
+    background: #fff;
+    z-index: 999;
+}
+.scrollto{}
+.head-section{
+    position: relative;
+    height: 60px;
+   
+}
+.clear{
+    overflow: hidden;
+}
+.head-section animation: {}
+.logo-img{
+     width: 300px;
+}
+
+.logo-img a{}
+.logo-img a img{
+    width: 100px;
+    margin-left: -40px
+}
+.manu-list{
+    left: 370px;
+    float: right;
+    position: relative;
+    top: -70px;
+    
+   
+}
+.manu-list ul{
+    list-style: none;
+    display: inline-block;
+    
+    
+    
+}
+
+.manu-list ul li a{
+    text-decoration: none;
+    display: inline-block;
+    color: #000;
+}
+.wrapper-nav nav ul li {
+    float: left;
+    margin-left: 20px;
+    padding-left: 20px;
+    position: relative;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+  
+}// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) {}// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+.wrapper-nav nav ul li a {
+    padding-top: 25px;
+    font-size: 15px;
+}
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
