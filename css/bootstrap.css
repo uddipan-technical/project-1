@@ -748,6 +748,10 @@ pre code {
     width: 20%;
     z-index: 9999;
 }
+ .mb-img {
+    padding:0 20px;
+}  
+  
  .mb-img img {
 
     width: 100%;
