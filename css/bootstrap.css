@@ -746,6 +746,10 @@ pre code {
     color: brown;
     display: block;
 }
+    .mb-img{
+   margin-top: 50px;
+   width: 91%;
+}
 } 
 
 @media (min-width: 576px){
