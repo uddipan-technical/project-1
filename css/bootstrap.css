@@ -747,6 +747,17 @@ pre code {
     top: 32px;
     color: blueviolet;
 }
+  .wrapper-title h2 {
+
+    color: #f6af33;
+    font-family: 'Amatic SC', Georgia, "Times New Roman", Times, serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 131px;
+  }
+    .wrapper-title img { margin-top: -195px;
+
+}
 }
 @media (min-width: 375px){
 #bg-header {
