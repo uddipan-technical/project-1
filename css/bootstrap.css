@@ -737,17 +737,24 @@ pre code {
   padding-right: 30px;
 }
 
-@media (min-width: 468px) & (max-width:767px){
-
-#bg-header {
-    top: 12px;
+@media (min-width: 576px){
+  container{
+    width: 767px;
+  }
+  #bg-header {
     position: fixed;
-    border: 0;
-    color: #4CBAAF;
-    right: 29px;
-    width: 20%;
-    z-index: 9999;
+    top: 10px;
+    left: 432px;
+    color: green;
+    border-radius: 20px;
+    padding: 6px;
+    z-index: 999999;
 }
+   .mb-img{
+   margin-top: 50px;
+   width: 91%;
+} 
+
  
   
  .mb-img img {
@@ -757,9 +764,7 @@ pre code {
     top: 40px;
 
 }
-   .mb-img {
-    padding:0 20px;
-} 
+  
   .wrapper-title img {
 
     position: relative;
