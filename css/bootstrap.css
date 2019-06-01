@@ -737,7 +737,7 @@ pre code {
   padding-right: 30px;
 }
 
-@media (min-width: 468px){
+@media (min-width: 468px) & (max-width:767px){
 
 #bg-header {
     top: 12px;
@@ -748,9 +748,7 @@ pre code {
     width: 20%;
     z-index: 9999;
 }
- .mb-img {
-    padding:0 20px;
-}  
+ 
   
  .mb-img img {
 
@@ -759,6 +757,9 @@ pre code {
     top: 40px;
 
 }
+   .mb-img {
+    padding:0 20px;
+} 
   .wrapper-title img {
 
     position: relative;
