@@ -756,7 +756,7 @@ pre code {
     margin-top: 131px;
   }
     .wrapper-title img {
-      margin-top: -195px;
+       margin-top: 130px !important;
 
 }
 }
