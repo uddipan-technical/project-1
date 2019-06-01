@@ -6641,10 +6641,11 @@ section {
   transition: all 0.3s ease-in-out;
 }
 .wrapper-nav .logo-fixed {
-  float: left;
-  margin-top: -8px;
-  width: 93px;
-  position: fixed;
+    float: left;
+    margin-top: 7px;
+    width: 116px;
+    position: fixed;
+    height: 48px;
 }
 .wrapper-nav nav {
   float: right;
