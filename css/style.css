@@ -7,6 +7,12 @@
 #wrap-animation{
     
 }
+.wrapper-nav .logo-fixed {
+    float: left;
+    margin-top: -8px;
+    width: 93px;
+    position: fixed;
+    height: 67px;
 .wrapper-nav {
     position: fixed;
     width: 100%;
