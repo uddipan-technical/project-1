@@ -7761,6 +7761,9 @@ header#header-mobile:after {
   color: #000000;
   font-weight: bold;
 }
+.legend li:last-child {
+  margin-right: 0;
+}
 .legend li span {
   position: absolute;
   top: 0;
@@ -7769,6 +7772,4 @@ header#header-mobile:after {
   font-size: 20px;
   margin: 0;
 }
-.legend li:last-child {
-  margin-right: 0;
-}
+
