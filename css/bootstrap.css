@@ -736,19 +736,16 @@ pre code {
   padding-left: 30px;
   padding-right: 30px;
 }
-@media (min-width: 360px){
-  #bg-header {
-    left: 249px;
-    position: fixed;
+@media (min-width:360px){
+ .mb-img {
+    width: 90% !important;
+  }
+    #bg-header { position: fixed;
+    left: 236px;
     z-index: 9999;
-    top: 24px;
     border: 0;
-    color: brown;
-    display: block;
-}
-    .mb-img{
-   margin-top: 50px;
-   width: 91% !important;
+    top: 32px;
+    color: blueviolet;
 }
 }
 @media (min-width: 375px){
