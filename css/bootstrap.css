@@ -748,7 +748,7 @@ pre code {
 }
     .mb-img{
    margin-top: 50px;
-   width: 91%;
+   width: 91% !important;
 }
 } 
 
